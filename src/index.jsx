@@ -43,7 +43,7 @@ import { Route } from 'react-router-dom'
 const router = createBrowserRouter(
   createRoutesFromElements(
     <Route path="/" element={<Root />} >
-      {/* <Route path="login" element={<Login />} /> */}
+
       <Route path="" element={<Home />} />
       <Route path="about" element={<About />} />
       <Route path="contact" element={<Contact />} />
