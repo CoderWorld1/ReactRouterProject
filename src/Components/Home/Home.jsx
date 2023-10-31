@@ -13,7 +13,7 @@ export default function Home() {
 
             <Link
               className="inline-flex text-white items-center px-6 py-3 font-medium bg-orange-700 rounded-lg hover:opacity-75"
-              to="https://vaibhavshrivastav.netlify.app/"
+              to="https://portfolio-website-amber-rho.vercel.app/"
             >
               <svg
                 fill="white"

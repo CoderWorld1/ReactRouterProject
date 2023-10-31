@@ -72,8 +72,8 @@ export default function Footer() {
         <div className="sm:flex sm:items-center sm:justify-between">
           <span className="text-sm text-gray-500 sm:text-center">
             © 2023
-            <a href="https://vaibhavshrivastav.netlify.app/" className="hover:underline">
-             &nbsp;VaibhavShrivastav
+            <a href="https://portfolio-website-amber-rho.vercel.app/" className="hover:underline">
+              &nbsp;VaibhavShrivastav
             </a>
             . All Rights Reserved.
           </span>
@@ -138,7 +138,7 @@ export default function Footer() {
               </svg>
               <span className="sr-only">GitHub account</span>
             </Link>
-           
+
           </div>
         </div>
       </div>
