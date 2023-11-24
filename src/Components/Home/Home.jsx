@@ -31,7 +31,7 @@ export default function Home() {
         </div>
 
         <div className="absolute inset-0 w-full sm:my-20 sm:pt-1 pt-12 h-full ">
-          <img className="w-96" src="https://scontent.fdel8-2.fna.fbcdn.net/v/t1.6435-9/74877375_2400193420231543_1691316326838042624_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=7a1959&_nc_ohc=Up5lXMYXkMsAX9G7JCr&_nc_ht=scontent.fdel8-2.fna&oh=00_AfBcFSiaRujZC6mLAKHAwZ-qI5d7r5pDEc5qlGlXIyEHkg&oe=6557D04D" alt="developerImage" />
+          <img className="w-96" src='../../public/vaibhav1.jpg' alt="developerImage" />
         </div>
       </aside>
 
