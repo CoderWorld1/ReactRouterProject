@@ -31,7 +31,7 @@ export default function Home() {
         </div>
 
         <div className="absolute inset-0 w-full sm:my-20 sm:pt-1 pt-12 h-full ">
-          <img className="w-96" src='../../public/vaibhav1.jpg' alt="developerImage" />
+          <img className="w-96" src='https://pbs.twimg.com/media/F9BBWs4aMAAYEbh?format=jpg&name=medium' alt="developerImage" />
         </div>
       </aside>
 
